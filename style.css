@@ -1,0 +1,26 @@
+html {
+	height: 100%;
+}
+
+
+body {
+	height: 100%;
+	text-align: center;
+	display:  flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	font: 'Raleway', sans-serif;
+	color: #00000087;
+	background: linear-gradient(to right, #FFFFFF, #703333);
+
+}
+
+input {
+	cursor: pointer;
+}
+     
+button {
+	margin: 19px;
+	cursor: pointer;
+}
